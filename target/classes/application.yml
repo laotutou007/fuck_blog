@@ -21,4 +21,11 @@ mybatis-plus:
     db-config:
       # 数据库表前缀
       table-prefix: t_
-
+      # 逻辑删除的字段
+      logic-delete-field: delFlag
+      # 代表已删除的值
+      logic-delete-value: 1
+      # 代表未删除的值
+      logic-not-delete-value: 0
+      # 主键自增策略，以mysql数据库为准
+      id-type: auto

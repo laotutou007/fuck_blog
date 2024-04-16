@@ -23,3 +23,15 @@ f
 0src/main/java/com/jimmy/holydemo/controller.java,1/4/14a5f4c88b8152e21426e64dcf822807d265488d
 j
 :src/main/java/com/jimmy/holydemo/controller/HelloTest.java,2/3/23f597448e7f670e5822b1643b2bcc3c072fcc22
+r
+Bsrc/main/java/com/jimmy/holydemo/controller/ArticleController.java,e/4/e4f89ed74ed5f601caca288993fbcf9e754df96e
+l
+<src/main/java/com/jimmy/holydemo/service/ArticleService.java,3/c/3c5482e4826fbd22724923257fb08a9cdcc41e23
+u
+Esrc/main/java/com/jimmy/holydemo/service/impl/ArticleServiceImpl.java,f/1/f1515772983c4a1abb133d80e992fd4555c738c2
+d
+4src/main/java/com/jimmy/holydemo/dao/ArticleDao.java,b/e/be9308eaa12dd848dd05dd24f25c545ce9c46c76
+d
+4src/main/java/com/jimmy/holydemo/entity/Article.java,f/d/fd8c4cf5188cd8eddb7583112c13b7f620019178
+k
+;src/main/java/com/jimmy/holydemo/entity/entity/Article.java,e/c/ecd2721bc4c14e2b01bc7c5a710d0105838b7d5d
