@@ -1,0 +1,13 @@
+
+¦
+java:S1488-"^Immediately return this expression instead of assigning it to the temporary variable "result".(ìÛó™şÿÿÿÿ8¡ü‰øî1J$64a7087d-354a-49f1-a469-c045b69901c1
+i
+java:S1948"&Make "data" transient or serializable.(íİµ˜8©ü‰øî1J$27f1966d-8109-4e98-8d46-dd7eb889f92d
+i
+java:S1452M"&Remove usage of generic wildcard type.(èÕÈº8®ü‰øî1J$f7a1506a-ce22-48b9-b709-0aea05e0f4c7
+n
+java:S1452S"&Remove usage of generic wildcard type.(î¬Íøÿÿÿÿ8®ü‰øî1J$78c47253-2b0b-46d3-a492-4490fbbc6380
+n
+java:S1452Y"&Remove usage of generic wildcard type.(Ã„¹ùÿÿÿÿ8®ü‰øî1J$433f2765-7510-4161-84d5-f75b98cbf902
+n
+java:S1452`"&Remove usage of generic wildcard type.(¤ì®»øÿÿÿÿ8®ü‰øî1J$9775e968-c5eb-414f-9f37-94cc5933933d

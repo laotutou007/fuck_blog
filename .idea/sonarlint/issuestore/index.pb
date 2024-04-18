@@ -35,3 +35,9 @@ d
 4src/main/java/com/jimmy/holydemo/entity/Article.java,f/d/fd8c4cf5188cd8eddb7583112c13b7f620019178
 k
 ;src/main/java/com/jimmy/holydemo/entity/entity/Article.java,e/c/ecd2721bc4c14e2b01bc7c5a710d0105838b7d5d
+k
+;src/main/java/com/jimmy/holydemo/enums/AppHttpCodeEnum.java,0/6/06634fd8ce60a31a420d143d028a660b544309f7
+k
+;src/main/java/com/jimmy/holydemo/domain/ResponseResult.java,7/d/7d7a4f887a3bd9c0e244deb242b7eeb7dc3519b2
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

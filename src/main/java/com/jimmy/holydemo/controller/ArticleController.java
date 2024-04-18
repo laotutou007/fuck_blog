@@ -1,5 +1,6 @@
 package com.jimmy.holydemo.controller;
 
+import com.jimmy.holydemo.domain.ResponseResult;
 import com.jimmy.holydemo.entity.Article;
 import com.jimmy.holydemo.service.ArticleService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,8 +15,14 @@ import java.util.List;
 public class ArticleController {
     @Autowired
     private ArticleService articleService;
-    @GetMapping("/test")
+    @GetMapping("/list")
     public List<Article> test(){
         return articleService.list();
     }
+    @GetMapping("/ok")
+    public ResponseResult get(){
+        ResponseResult responseResult = articleService.hotArticleList();
+        return responseResult;
+    }
+
 }
